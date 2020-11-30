@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/a252937166/spring-boot-hystrix-demo.svg?branch=main)](https://travis-ci.org/a252937166/spring-boot-hystrix-demo)
+
 # spring-boot-hystrix-demo
 
 参考了大多数文章，大多使用的是spring-cloud的整合方式，如果只是单独使用spring-boot的话，这种方式引用了太多无用的依赖，而且没有明明没有使用spring-cloud，pom中有个spring-cloud开头的依赖，有强迫症的我实在接受不了，所以花了些时间自己研究了一下如何快速简洁地单独整合hystrix。
