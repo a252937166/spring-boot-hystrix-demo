@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/a252937166/spring-boot-hystrix-demo.svg?branch=main)](https://travis-ci.org/a252937166/spring-boot-hystrix-demo)
+[![codecov](https://codecov.io/gh/a252937166/spring-boot-hystrix-demo/branch/main/graph/badge.svg?token=USFMCL7WYR)](https://codecov.io/gh/a252937166/spring-boot-hystrix-demo)
+[![GitHub license](https://img.shields.io/github/license/a252937166/spring-boot-hystrix-demo)](https://github.com/a252937166/spring-boot-hystrix-demo/blob/main/LICENSE)
 
 # spring-boot-hystrix-demo
 
