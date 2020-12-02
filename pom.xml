@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ouyanglol</groupId>
-    <artifactId>spring-boot-hytrix-demo</artifactId>
+    <artifactId>spring-boot-hystrix-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>hystrix-demo</name>
     <description>Demo project for Spring Boot</description>
